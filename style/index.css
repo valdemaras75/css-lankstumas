@@ -1,0 +1,57 @@
+body{
+   background: rgba(55, 109, 131, 0.7); 
+}
+article{
+   max-width: 900px;
+   margin: 0 auto;
+}
+.a{
+   background: rgba(209, 148, 148, 0.3);
+   font-size: 20px;
+   font-family: koulen;
+  color: rgb(228, 201, 169);
+  font-weight: 400;
+  font-style: italic;
+  padding: 0px 50px;
+}h1, h2, h3, h4{
+   background: #470006;
+   color: rgb(228, 201, 169);
+   font-family: roboto;
+   font-weight: 900;
+   border-bottom:  5px solid rgb(216, 213, 58);
+   padding-top: 10px;
+   padding-bottom: 12px;
+   padding-left: 40px;
+}
+h1{
+   font-size: 2em;/* 1em=16px*/
+}
+h2{
+   text-align: right;/*tekstas bus desineje*/
+}
+h3{
+   text-align: center;/*tekstas bus centre*/
+}
+#logo{
+   font-family: Pacifico;
+   font-size: 34px;
+   color: rgb(228, 201, 169);
+   font-style: italic;
+   text-align: center;
+   padding-bottom: 5px;
+   background: #470006;
+   border-radius: 0px 0px 20px 20px;
+}
+.testas{
+   color: #000;
+   border: solid 2px #fff;
+   background: #96030f;
+   margin-top: 22px;
+   margin-bottom: 30px;
+   padding: 10px;
+}
+p{
+   background: rgb(154, 205, 50);
+   font-family: Koulen;
+   font-size: 20px;
+}
